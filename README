@@ -1,3 +1,24 @@
+a. Team name: Pacman
+
+b. team members Name Aksheshkumar Ajaykumar Shah, Anish oswal, omkar kulkarni
+
+c.topic 2 - Life long planning
+
+d. 
+Contribution of team members:
+Paper analysis and finalising the required code changes: Omkar Kulkarni, Aksheshkumar Shah, Anish Oswal
+Programming phase : Omkar Kulkarni,Aksheshkumar Shah, Anish Oswal
+Testing the changes on different layouts: Omkar Kulkarni,Aksheshkumar Shah, Anish Oswal
+Debugging the code :Omkar Kulkarni, Aksheshkumar Shah, Anish Oswal
+Report creation :Omkar Kulkarni, Aksheshkumar Shah, Anish Oswal
+
+e: Instructions to run the code:
+1.Use the linux operating system.
+2. Ensure that python 2 version is already installed on your machine.
+3.Download the zip folder 
+4. open the "search" folder in terminal
+5. please use the below commands on Linux terminal to run the programme. 
+
 #layout type : bigCornerscustom
 
 #run below command on terminal to check the A* baseline algorithm on bigCornercustom maze
